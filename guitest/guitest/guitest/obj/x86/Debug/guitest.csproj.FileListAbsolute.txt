@@ -1,0 +1,21 @@
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\guitest.exe
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\guitest.pdb
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\obj\x86\Debug\guitest.Form1.resources
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\obj\x86\Debug\guitest.Properties.Resources.resources
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\obj\x86\Debug\guitest.exe
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\obj\x86\Debug\guitest.pdb
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\Emgu.CV.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\Emgu.CV.GPU.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\Emgu.CV.ML.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\Emgu.CV.OCR.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\Emgu.CV.Stitching.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\Emgu.CV.UI.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\Emgu.CV.VideoStab.xml
+c:\users\shaghayegh\documents\visual studio 2010\Projects\guitest\guitest\bin\Debug\Emgu.Util.xml
+D:\ebook\project2vision\guitest\guitest\obj\x86\Debug\guitest.exe
+D:\ebook\project2vision\guitest\guitest\obj\x86\Debug\guitest.pdb
+C:\Users\shaghayegh-gh\Documents\guitest\guitest\guitest\obj\x86\Debug\guitest.exe
+C:\Users\shaghayegh-gh\Documents\guitest\guitest\guitest\obj\x86\Debug\guitest.pdb
