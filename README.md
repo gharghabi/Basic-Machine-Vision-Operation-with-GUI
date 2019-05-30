@@ -1,4 +1,4 @@
-Vision_project
+Implementing basic vision function using Emgu
 ==============
 
 This project includes the implementation of basic function in emgu for machine vision and image processing
